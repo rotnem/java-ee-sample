@@ -1,0 +1,25 @@
+Ndjek hapat e meposhtem per te testuar aplikacionin e ndertuar me Java EE(Enterprise Edition)
+
+Instalimi dhe konfigurimi i Netbeans:
+1. Instalo Netbeans ne webfaqen: https://netbeans.org/features/java-on-server/java-ee.html
+2. Pas instalimit nga Netbeans hape projektin qe gjendet ne kete folder me emrin "notes"
+3. Kur ta hapni projektin shko dhe zgjeroje posht qe te shihen follderat e tjer
+4. Te follderi 'Libraries' kliko me te djathten dhe kliko te 'Add JAR/Folder...'
+5. Pasi te hapet nje dritare e re navigohu ne kete follder dhe selekto 'mysql-connector-java-5.1.41-bin.jar'
+
+
+Insertimi i tabeles ne server lokal:
+1. Hapeni XAMP ose ndonje software tjeter sipas deshires 
+2. Krijoni nje databaze me emrin 'notes'
+3. Importoni ne kete databaze fajllin notes.sql, i cili gjendet ne kete follder
+
+Ekzekutimi i Aplikacionit:
+1. Ne Netbeans ne projektin 'notes' hape follderin 'Web Pages' dhe pastaj shko te 'index.jsp'
+2. Me te djathten shko te run file
+3. Ne Browserin tuaj standrad do te hapet aplikacioni i ndertuar me JAVA
+
+Mund te beni ndryshime ne Dizajn dhe foto ne dokumentet
+notes/Web Pages/index.jsp, notes/Web Pages/post.jsp, notes/Web Pages/contact.html
+
+@MentorBibaj 
+
